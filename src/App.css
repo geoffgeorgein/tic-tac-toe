@@ -18,6 +18,7 @@ button{
   float: left;
   font-weight: bold;
   margin: 2px 3px;
+  cursor: pointer;
 }
 .status{
   margin-bottom: 20px;
