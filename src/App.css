@@ -16,6 +16,7 @@ button{
   height: 100px;
   float: left;
   font-weight: bold;
+  margin: 2px 3px;
 }
 .status{
   margin-bottom: 20px;
